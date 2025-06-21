@@ -17,7 +17,7 @@ All fonts in this repository are either:
 
 ## 🛡️ Tiến's Declaration of Font Defense
 
-> **“These fonts are copyrighted by the font manufacturers. If you use them for personal purposes, it's okay. If you use them for commercial purposes, please purchase the copyright from the manufacturers.”**  
+> **“Hello”**  
 > — *Tiến, Font Overlord of Tra Vinh and California*
 
 Any unauthorized use, redistribution, or remixing of these fonts **without proper credit** will awaken the wrath of **OnyxTones** and the Sacred Font Spirits
