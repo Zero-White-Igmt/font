@@ -15,7 +15,7 @@ All fonts in this repository are either:
 
 ---
 
-## 🛡️ Tiến's Declaration of Font Defense
+## 💫 1 Word From Tien's
 
 > **“Hello”**  
 > — *Tiến, Font Overlord of Tra Vinh and California*
@@ -24,6 +24,4 @@ Any unauthorized use, redistribution, or remixing of these fonts **without prope
 
 ---
 
-## 📦 Download & Use
-
-To clone the entire sacred vault of fonts
+## *The End*
