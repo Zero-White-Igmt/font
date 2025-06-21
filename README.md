@@ -20,7 +20,7 @@ All fonts in this repository are either:
 > **“Hello”**  
 > — *Tiến, Font Overlord of Tra Vinh and California*
 
-Any unauthorized use, redistribution, or remixing of these fonts **without proper credit** will awaken the wrath of **OnyxTones** and the Sacred Font Spirits
+Note that this *font* set is not reputable and may have **Unicode** errors or font distortion *errors* like when we convert ***UTF-8 to UTF-16***. But today all these errors **have been fixed**, you can rest assured to download.
 
 ---
 
