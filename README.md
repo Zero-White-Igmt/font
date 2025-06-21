@@ -5,11 +5,11 @@ Here, you will find the glorious fonts handpicked, protected, and treasured by t
 
 ---
 
-## 🧾 License & Ownership
+## 🧾 Info & Mods
 
 All fonts in this repository are either:
 
-- 🅰️ **Created by Tiến** using powerful tools like FontForge, Glyphr Studio, and some secret tools from Trà Vinh underground.
+- 🅰️ **Việt Hoá by Tiến** using powerful tools like FontForge, Glyphr Studio, and some secret tools from Trà Vinh underground.
 - 🅱️ **Modified by Tiến** with precise kerning, Vietnamese diacritics (full combo: ă â ê ô ơ ư ấ ầ ẩ ậ ễ ỗ ự á à ạ ẳ ắ... ), and Unicode expansion.
 - 🅾️ **Rescued by Tiến** from the deep font jungle and polished until they shine like OnyxTones sau khi tắm.
 
